@@ -1,0 +1,8 @@
+{
+  "headphones": "p1",
+  "smartwatch": "p2",
+  "soldOutSpeaker": "p3",
+  "deskLamp": "p4",
+  "beanie": "p12",
+  "unknown": "p999"
+}
